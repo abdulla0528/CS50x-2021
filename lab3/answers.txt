@@ -1,0 +1,16 @@
+sort1 uses: bubble
+How do you know?: 
+real    0m0.415s
+user    0m0.193s
+sys     0m0.013s
+sort2 uses: merge
+How do you know?: 
+real    0m0.021s
+user    0m0.008s
+sys     0m0.008s
+
+sort3 uses: selection
+How do you know?: 
+real    0m0.225s
+user    0m0.107s
+sys     0m0.008s
